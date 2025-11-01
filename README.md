@@ -25,9 +25,9 @@ A fully functional **Flappy Bird** clone built with **Python** and **Pygame**.
 ## Screenshots
 
 <p float="left">
-  <img src="" width="260"/>
-  <img src="" width="260" style="padding-left:10px;"/>
-  <img src="" width="260" style="padding-left:10px;"/>
+  <img src="https://github.com/anujkaran027/Flappy-Bird/blob/cf5d1fa99c4bd352be70148a36b849066af7d3c9/screenshots/home.png" width="260"/>
+  <img src="https://github.com/anujkaran027/Flappy-Bird/blob/cf5d1fa99c4bd352be70148a36b849066af7d3c9/screenshots/pause.png" width="260" style="padding-left:10px;"/>
+  <img src="https://github.com/anujkaran027/Flappy-Bird/blob/cf5d1fa99c4bd352be70148a36b849066af7d3c9/screenshots/gameover.png" width="260" style="padding-left:10px;"/>
 </p>
 
 ---
